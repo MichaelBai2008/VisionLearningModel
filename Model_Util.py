@@ -1,4 +1,4 @@
-import prettytable as PrettyTable
+from prettytable import PrettyTable
 
 
 def count_parameters(model):
